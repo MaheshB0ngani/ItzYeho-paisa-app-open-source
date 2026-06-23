@@ -2,6 +2,7 @@
   "name": "paisa-docs",
   "version": "1.0.0",
   "description": "Paisa Expense Tracker Documentation",
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
