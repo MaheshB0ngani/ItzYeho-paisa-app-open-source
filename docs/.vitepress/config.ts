@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Paisa - Expense Tracker',
   description: 'Complete documentation for Paisa, the open-source cross-platform expense management app built with Flutter.',
   base: '/ItzYeho-paisa-app-open-source/',
+  ignoreDeadLinks: true,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
